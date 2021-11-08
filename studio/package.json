@@ -1,0 +1,29 @@
+{
+  "name": "studio",
+  "private": true,
+  "version": "1.0.0",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)",
+  "main": "package.json",
+  "author": "Estephany Lucia Paniagua Quispe <estephany.paniagua@utec.edu.pe>",
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "sanity start",
+    "build": "sanity build"
+  },
+  "keywords": [
+    "sanity"
+  ],
+  "dependencies": {
+    "@sanity/base": "^2.21.9",
+    "@sanity/core": "^2.21.8",
+    "@sanity/default-layout": "^2.21.9",
+    "@sanity/default-login": "^2.21.9",
+    "@sanity/desk-tool": "^2.21.9",
+    "@sanity/vision": "^2.21.9",
+    "prop-types": "^15.7",
+    "react": "^17.0",
+    "react-dom": "^17.0",
+    "styled-components": "^5.2.0"
+  },
+  "devDependencies": {}
+}
